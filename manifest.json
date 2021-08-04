@@ -1,0 +1,9 @@
+{
+  "short_name": "RISC OS Draw React Viewer",
+  "name": "RISC OS Draw React Viewer",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

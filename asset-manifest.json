@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/riscos-draw-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/riscos-draw-react/static/js/main.f38ad637.chunk.js",
+    "main.js.map": "/riscos-draw-react/static/js/main.f38ad637.chunk.js.map",
+    "runtime-main.js": "/riscos-draw-react/static/js/runtime-main.d96c972a.js",
+    "runtime-main.js.map": "/riscos-draw-react/static/js/runtime-main.d96c972a.js.map",
+    "static/js/2.3c29cb75.chunk.js": "/riscos-draw-react/static/js/2.3c29cb75.chunk.js",
+    "static/js/2.3c29cb75.chunk.js.map": "/riscos-draw-react/static/js/2.3c29cb75.chunk.js.map",
+    "index.html": "/riscos-draw-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/riscos-draw-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3c29cb75.chunk.js.LICENSE.txt": "/riscos-draw-react/static/js/2.3c29cb75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d96c972a.js",
+    "static/js/2.3c29cb75.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f38ad637.chunk.js"
+  ]
+}
